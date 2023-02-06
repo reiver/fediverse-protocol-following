@@ -87,3 +87,6 @@ So then, a DNS SRV look-up on **host** = `example.com` with **protocol** = `"tcp
 If something comes up, then that is the new value for **host** in the next step.
 If nothing came up, then keep the same value for **host** in the next step.
 
+# Step 2: Web Host Metadata
+
+
